@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS Smart City",
+  "description": "NEXUS Smart City - A futuristic Smart City Digital Twin platform demonstrating cross-disciplinary engineering collaboration for Engineering Day.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
